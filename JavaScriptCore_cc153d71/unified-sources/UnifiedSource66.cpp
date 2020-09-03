@@ -1,0 +1,8 @@
+#include "heap/CompleteSubspace.cpp"
+#include "heap/ConservativeRoots.cpp"
+#include "heap/DeferGC.cpp"
+#include "heap/DestructionMode.cpp"
+#include "heap/EdenGCActivityCallback.cpp"
+#include "heap/FastMallocAlignedMemoryAllocator.cpp"
+#include "heap/FreeList.cpp"
+#include "heap/FullGCActivityCallback.cpp"

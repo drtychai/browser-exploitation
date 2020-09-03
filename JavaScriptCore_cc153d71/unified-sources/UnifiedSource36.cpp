@@ -1,0 +1,8 @@
+#include "bytecode/ReduceWhitespace.cpp"
+#include "bytecode/SpeculatedType.cpp"
+#include "bytecode/StructureSet.cpp"
+#include "bytecode/StructureStubClearingWatchpoint.cpp"
+#include "bytecode/StructureStubInfo.cpp"
+#include "bytecode/StubInfoSummary.cpp"
+#include "bytecode/SuperSampler.cpp"
+#include "bytecode/ToThisStatus.cpp"

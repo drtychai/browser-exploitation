@@ -1,0 +1,8 @@
+#include "heap/GCActivityCallback.cpp"
+#include "heap/GCConductor.cpp"
+#include "heap/GCLogging.cpp"
+#include "heap/GCRequest.cpp"
+#include "heap/GCSegmentedArray.cpp"
+#include "heap/GigacageAlignedMemoryAllocator.cpp"
+#include "heap/HandleSet.cpp"
+#include "heap/Heap.cpp"

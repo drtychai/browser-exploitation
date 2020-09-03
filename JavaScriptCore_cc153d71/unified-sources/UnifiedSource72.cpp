@@ -1,0 +1,8 @@
+#include "heap/SynchronousStopTheWorldMutatorScheduler.cpp"
+#include "heap/Synchronousness.cpp"
+#include "heap/VisitRaceKey.cpp"
+#include "heap/Weak.cpp"
+#include "heap/WeakBlock.cpp"
+#include "heap/WeakHandleOwner.cpp"
+#include "heap/WeakSet.cpp"
+#include "heap/WriteBarrierSupport.cpp"

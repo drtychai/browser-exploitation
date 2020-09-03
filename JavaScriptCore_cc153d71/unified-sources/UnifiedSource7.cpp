@@ -1,0 +1,7 @@
+#include "assembler/MacroAssemblerMIPS.cpp"
+#include "assembler/MacroAssemblerPrinter.cpp"
+#include "assembler/MacroAssemblerX86Common.cpp"
+#include "assembler/PerfLog.cpp"
+#include "assembler/Printer.cpp"
+#include "assembler/ProbeContext.cpp"
+#include "assembler/ProbeStack.cpp"

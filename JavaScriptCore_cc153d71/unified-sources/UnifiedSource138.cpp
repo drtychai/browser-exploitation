@@ -1,0 +1,8 @@
+#include "wasm/js/JSToWasm.cpp"
+#include "wasm/js/JSToWasmICCallee.cpp"
+#include "wasm/js/JSWebAssembly.cpp"
+#include "wasm/js/JSWebAssemblyCodeBlock.cpp"
+#include "wasm/js/JSWebAssemblyCompileError.cpp"
+#include "wasm/js/JSWebAssemblyGlobal.cpp"
+#include "wasm/js/JSWebAssemblyInstance.cpp"
+#include "wasm/js/JSWebAssemblyLinkError.cpp"

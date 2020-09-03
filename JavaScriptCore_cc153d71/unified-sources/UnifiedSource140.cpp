@@ -1,0 +1,8 @@
+#include "wasm/js/WebAssemblyFunctionBase.cpp"
+#include "wasm/js/WebAssemblyGlobalConstructor.cpp"
+#include "wasm/js/WebAssemblyGlobalPrototype.cpp"
+#include "wasm/js/WebAssemblyInstanceConstructor.cpp"
+#include "wasm/js/WebAssemblyInstancePrototype.cpp"
+#include "wasm/js/WebAssemblyLinkErrorConstructor.cpp"
+#include "wasm/js/WebAssemblyLinkErrorPrototype.cpp"
+#include "wasm/js/WebAssemblyMemoryConstructor.cpp"

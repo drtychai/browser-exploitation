@@ -1,0 +1,8 @@
+#include "bytecode/FullCodeOrigin.cpp"
+#include "bytecode/FunctionCodeBlock.cpp"
+#include "bytecode/GetByIdVariant.cpp"
+#include "bytecode/GetByStatus.cpp"
+#include "bytecode/GetterSetterAccessCase.cpp"
+#include "bytecode/ICStatusMap.cpp"
+#include "bytecode/ICStatusUtils.cpp"
+#include "bytecode/InByIdStatus.cpp"

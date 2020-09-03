@@ -1,0 +1,8 @@
+#include "b3/B3ArgumentRegValue.cpp"
+#include "b3/B3AtomicValue.cpp"
+#include "b3/B3Bank.cpp"
+#include "b3/B3BasicBlock.cpp"
+#include "b3/B3BlockInsertionSet.cpp"
+#include "b3/B3BottomTupleValue.cpp"
+#include "b3/B3BreakCriticalEdges.cpp"
+#include "b3/B3CCallValue.cpp"

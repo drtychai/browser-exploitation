@@ -1,0 +1,8 @@
+#include "inspector/InjectedScriptModule.cpp"
+#include "inspector/InspectorAgentRegistry.cpp"
+#include "inspector/InspectorBackendDispatcher.cpp"
+#include "inspector/InspectorBackendDispatchers.cpp"
+#include "inspector/InspectorFrontendDispatchers.cpp"
+#include "inspector/InspectorFrontendRouter.cpp"
+#include "inspector/InspectorProtocolObjects.cpp"
+#include "inspector/InspectorTarget.cpp"

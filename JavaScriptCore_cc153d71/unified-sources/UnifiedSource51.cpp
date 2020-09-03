@@ -1,0 +1,8 @@
+#include "dfg/DFGNodeFlowProjection.cpp"
+#include "dfg/DFGNodeOrigin.cpp"
+#include "dfg/DFGOSRAvailabilityAnalysisPhase.cpp"
+#include "dfg/DFGOSREntry.cpp"
+#include "dfg/DFGOSREntrypointCreationPhase.cpp"
+#include "dfg/DFGOSRExit.cpp"
+#include "dfg/DFGOSRExitBase.cpp"
+#include "dfg/DFGOSRExitCompilerCommon.cpp"

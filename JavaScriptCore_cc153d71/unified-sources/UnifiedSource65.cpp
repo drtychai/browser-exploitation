@@ -1,0 +1,8 @@
+#include "heap/AlignedMemoryAllocator.cpp"
+#include "heap/Allocator.cpp"
+#include "heap/BlockDirectory.cpp"
+#include "heap/CellAttributes.cpp"
+#include "heap/CellContainer.cpp"
+#include "heap/CodeBlockSet.cpp"
+#include "heap/CollectionScope.cpp"
+#include "heap/CollectorPhase.cpp"

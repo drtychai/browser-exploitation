@@ -1,0 +1,8 @@
+#include "dfg/DFGBlockSet.cpp"
+#include "dfg/DFGByteCodeParser.cpp"
+#include "dfg/DFGCFAPhase.cpp"
+#include "dfg/DFGCFGSimplificationPhase.cpp"
+#include "dfg/DFGCPSRethreadingPhase.cpp"
+#include "dfg/DFGCSEPhase.cpp"
+#include "dfg/DFGCapabilities.cpp"
+#include "dfg/DFGCleanUpPhase.cpp"

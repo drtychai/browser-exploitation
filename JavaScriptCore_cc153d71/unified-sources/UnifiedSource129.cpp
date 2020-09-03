@@ -1,0 +1,8 @@
+#include "runtime/VMTraps.cpp"
+#include "runtime/VarOffset.cpp"
+#include "runtime/Watchdog.cpp"
+#include "runtime/WeakMapConstructor.cpp"
+#include "runtime/WeakMapImpl.cpp"
+#include "runtime/WeakMapPrototype.cpp"
+#include "runtime/WeakObjectRefConstructor.cpp"
+#include "runtime/WeakObjectRefPrototype.cpp"

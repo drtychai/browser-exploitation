@@ -1,0 +1,7 @@
+#include "profiler/ProfilerJettisonReason.cpp"
+#include "profiler/ProfilerOSRExit.cpp"
+#include "profiler/ProfilerOSRExitSite.cpp"
+#include "profiler/ProfilerOrigin.cpp"
+#include "profiler/ProfilerOriginStack.cpp"
+#include "profiler/ProfilerProfiledBytecodes.cpp"
+#include "profiler/ProfilerUID.cpp"

@@ -1,0 +1,8 @@
+#include "runtime/NullSetterFunction.cpp"
+#include "runtime/NumberConstructor.cpp"
+#include "runtime/NumberObject.cpp"
+#include "runtime/NumberPredictionFuzzerAgent.cpp"
+#include "runtime/NumberPrototype.cpp"
+#include "runtime/ObjectConstructor.cpp"
+#include "runtime/ObjectInitializationScope.cpp"
+#include "runtime/ObjectPrototype.cpp"

@@ -1,0 +1,8 @@
+#include "yarr/RegularExpression.cpp"
+#include "yarr/YarrCanonicalizeUCS2.cpp"
+#include "yarr/YarrCanonicalizeUnicode.cpp"
+#include "yarr/YarrDisassembler.cpp"
+#include "yarr/YarrErrorCode.cpp"
+#include "yarr/YarrFlags.cpp"
+#include "yarr/YarrInterpreter.cpp"
+#include "yarr/YarrJIT.cpp"

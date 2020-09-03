@@ -1,0 +1,8 @@
+#include "wasm/WasmSectionParser.cpp"
+#include "wasm/WasmSignature.cpp"
+#include "wasm/WasmSlowPaths.cpp"
+#include "wasm/WasmStreamingParser.cpp"
+#include "wasm/WasmTable.cpp"
+#include "wasm/WasmThunks.cpp"
+#include "wasm/WasmTierUpCount.cpp"
+#include "wasm/WasmWorklist.cpp"

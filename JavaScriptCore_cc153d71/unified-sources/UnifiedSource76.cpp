@@ -1,0 +1,8 @@
+#include "inspector/PerGlobalObjectWrapperWorld.cpp"
+#include "inspector/ScriptArguments.cpp"
+#include "inspector/ScriptCallFrame.cpp"
+#include "inspector/ScriptCallStack.cpp"
+#include "inspector/ScriptCallStackFactory.cpp"
+#include "inspector/agents/InspectorAgent.cpp"
+#include "inspector/agents/InspectorAuditAgent.cpp"
+#include "inspector/agents/InspectorConsoleAgent.cpp"

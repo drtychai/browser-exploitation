@@ -1,0 +1,8 @@
+#include "API/JSAPIGlobalObject.mm"
+#include "API/JSAPIWrapperObject.mm"
+#include "API/JSContext.mm"
+#include "API/JSManagedValue.mm"
+#include "API/JSScript.mm"
+#include "API/JSScriptSourceProvider.mm"
+#include "API/JSValue.mm"
+#include "API/JSVirtualMachine.mm"

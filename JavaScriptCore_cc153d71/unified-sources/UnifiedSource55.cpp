@@ -1,0 +1,8 @@
+#include "dfg/DFGStrengthReductionPhase.cpp"
+#include "dfg/DFGStructureAbstractValue.cpp"
+#include "dfg/DFGThreadData.cpp"
+#include "dfg/DFGThunks.cpp"
+#include "dfg/DFGTierUpCheckInjectionPhase.cpp"
+#include "dfg/DFGToFTLDeferredCompilationCallback.cpp"
+#include "dfg/DFGToFTLForOSREntryDeferredCompilationCallback.cpp"
+#include "dfg/DFGTransition.cpp"

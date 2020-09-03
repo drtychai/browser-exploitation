@@ -1,0 +1,8 @@
+#include "runtime/BooleanObject.cpp"
+#include "runtime/BooleanPrototype.cpp"
+#include "runtime/BytecodeCacheError.cpp"
+#include "runtime/CachePayload.cpp"
+#include "runtime/CacheUpdate.cpp"
+#include "runtime/CacheableIdentifier.cpp"
+#include "runtime/CachedBytecode.cpp"
+#include "runtime/CachedTypes.cpp"

@@ -1,0 +1,8 @@
+#include "parser/Lexer.cpp"
+#include "parser/ModuleAnalyzer.cpp"
+#include "parser/Nodes.cpp"
+#include "parser/NodesAnalyzeModule.cpp"
+#include "parser/Parser.cpp"
+#include "parser/ParserArena.cpp"
+#include "parser/SourceProvider.cpp"
+#include "parser/SourceProviderCache.cpp"

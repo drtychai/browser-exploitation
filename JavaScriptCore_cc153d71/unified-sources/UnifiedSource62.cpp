@@ -1,0 +1,8 @@
+#include "ftl/FTLLazySlowPath.cpp"
+#include "ftl/FTLLink.cpp"
+#include "ftl/FTLLocation.cpp"
+#include "ftl/FTLOSREntry.cpp"
+#include "ftl/FTLOSRExit.cpp"
+#include "ftl/FTLOSRExitCompiler.cpp"
+#include "ftl/FTLOSRExitHandle.cpp"
+#include "ftl/FTLOperations.cpp"

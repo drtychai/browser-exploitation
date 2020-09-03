@@ -1,0 +1,8 @@
+#include "heap/MarkStack.cpp"
+#include "heap/MarkStackMergingConstraint.cpp"
+#include "heap/MarkedBlock.cpp"
+#include "heap/MarkedSpace.cpp"
+#include "heap/MarkingConstraint.cpp"
+#include "heap/MarkingConstraintSet.cpp"
+#include "heap/MarkingConstraintSolver.cpp"
+#include "heap/MutatorScheduler.cpp"

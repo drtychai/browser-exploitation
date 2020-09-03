@@ -1,0 +1,8 @@
+#include "runtime/IndexingType.cpp"
+#include "runtime/IndirectEvalExecutable.cpp"
+#include "runtime/InitializeThreading.cpp"
+#include "runtime/InspectorInstrumentationObject.cpp"
+#include "runtime/InternalFunction.cpp"
+#include "runtime/IntlCollator.cpp"
+#include "runtime/IntlCollatorConstructor.cpp"
+#include "runtime/IntlCollatorPrototype.cpp"

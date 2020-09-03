@@ -1,0 +1,8 @@
+#include "dfg/DFGGraphSafepoint.cpp"
+#include "dfg/DFGHeapLocation.cpp"
+#include "dfg/DFGInPlaceAbstractState.cpp"
+#include "dfg/DFGInsertionSet.cpp"
+#include "dfg/DFGIntegerCheckCombiningPhase.cpp"
+#include "dfg/DFGIntegerRangeOptimizationPhase.cpp"
+#include "dfg/DFGInvalidationPointInjectionPhase.cpp"
+#include "dfg/DFGJITCode.cpp"

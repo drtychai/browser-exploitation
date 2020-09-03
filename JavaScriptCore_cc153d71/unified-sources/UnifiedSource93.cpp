@@ -1,0 +1,8 @@
+#include "runtime/ArrayConventions.cpp"
+#include "runtime/ArrayIteratorPrototype.cpp"
+#include "runtime/ArrayPrototype.cpp"
+#include "runtime/AsyncFromSyncIteratorPrototype.cpp"
+#include "runtime/AsyncFunctionConstructor.cpp"
+#include "runtime/AsyncFunctionPrototype.cpp"
+#include "runtime/AsyncGeneratorFunctionConstructor.cpp"
+#include "runtime/AsyncGeneratorFunctionPrototype.cpp"

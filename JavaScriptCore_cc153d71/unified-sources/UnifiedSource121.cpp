@@ -1,0 +1,8 @@
+#include "runtime/ObjectToStringAdaptiveStructureWatchpoint.cpp"
+#include "runtime/Operations.cpp"
+#include "runtime/Options.cpp"
+#include "runtime/PredictionFileCreatingFuzzerAgent.cpp"
+#include "runtime/ProgramExecutable.cpp"
+#include "runtime/PropertyDescriptor.cpp"
+#include "runtime/PropertySlot.cpp"
+#include "runtime/PropertyTable.cpp"

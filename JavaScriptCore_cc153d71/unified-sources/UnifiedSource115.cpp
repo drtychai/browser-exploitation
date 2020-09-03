@@ -1,0 +1,8 @@
+#include "runtime/JSScope.cpp"
+#include "runtime/JSScriptFetchParameters.cpp"
+#include "runtime/JSScriptFetcher.cpp"
+#include "runtime/JSSegmentedVariableObject.cpp"
+#include "runtime/JSSet.cpp"
+#include "runtime/JSSetIterator.cpp"
+#include "runtime/JSSourceCode.cpp"
+#include "runtime/JSString.cpp"

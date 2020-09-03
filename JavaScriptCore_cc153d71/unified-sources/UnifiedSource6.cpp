@@ -1,0 +1,8 @@
+#include "assembler/AbstractMacroAssembler.cpp"
+#include "assembler/AssemblerBuffer.cpp"
+#include "assembler/CPU.cpp"
+#include "assembler/LinkBuffer.cpp"
+#include "assembler/MacroAssembler.cpp"
+#include "assembler/MacroAssemblerARM64.cpp"
+#include "assembler/MacroAssemblerARMv7.cpp"
+#include "assembler/MacroAssemblerCodeRef.cpp"

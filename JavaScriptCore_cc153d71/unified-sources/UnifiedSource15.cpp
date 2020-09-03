@@ -1,0 +1,8 @@
+#include "b3/B3ReduceStrength.cpp"
+#include "b3/B3SSACalculator.cpp"
+#include "b3/B3SlotBaseValue.cpp"
+#include "b3/B3StackSlot.cpp"
+#include "b3/B3StackmapGenerationParams.cpp"
+#include "b3/B3StackmapSpecial.cpp"
+#include "b3/B3StackmapValue.cpp"
+#include "b3/B3SwitchCase.cpp"

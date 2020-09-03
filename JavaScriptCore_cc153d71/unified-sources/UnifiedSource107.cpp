@@ -1,0 +1,8 @@
+#include "runtime/IntlRelativeTimeFormat.cpp"
+#include "runtime/IntlRelativeTimeFormatConstructor.cpp"
+#include "runtime/IntlRelativeTimeFormatPrototype.cpp"
+#include "runtime/IntlSegmentIterator.cpp"
+#include "runtime/IntlSegmentIteratorPrototype.cpp"
+#include "runtime/IntlSegmenter.cpp"
+#include "runtime/IntlSegmenterConstructor.cpp"
+#include "runtime/IntlSegmenterPrototype.cpp"

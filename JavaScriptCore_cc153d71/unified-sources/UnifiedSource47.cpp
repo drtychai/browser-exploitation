@@ -1,0 +1,8 @@
+#include "dfg/DFGFailedFinalizer.cpp"
+#include "dfg/DFGFinalizer.cpp"
+#include "dfg/DFGFixupPhase.cpp"
+#include "dfg/DFGFlowIndexing.cpp"
+#include "dfg/DFGFlushFormat.cpp"
+#include "dfg/DFGFlushedAt.cpp"
+#include "dfg/DFGFrozenValue.cpp"
+#include "dfg/DFGGraph.cpp"

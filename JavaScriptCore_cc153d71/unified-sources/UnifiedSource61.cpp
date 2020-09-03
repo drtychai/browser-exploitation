@@ -1,0 +1,8 @@
+#include "ftl/FTLExitArgumentForOperand.cpp"
+#include "ftl/FTLExitPropertyValue.cpp"
+#include "ftl/FTLExitTimeObjectMaterialization.cpp"
+#include "ftl/FTLExitValue.cpp"
+#include "ftl/FTLFail.cpp"
+#include "ftl/FTLForOSREntryJITCode.cpp"
+#include "ftl/FTLJITCode.cpp"
+#include "ftl/FTLJITFinalizer.cpp"

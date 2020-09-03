@@ -1,0 +1,8 @@
+#include "bytecode/InByIdVariant.cpp"
+#include "bytecode/InlineAccess.cpp"
+#include "bytecode/InlineCallFrame.cpp"
+#include "bytecode/InlineCallFrameSet.cpp"
+#include "bytecode/InstanceOfAccessCase.cpp"
+#include "bytecode/InstanceOfStatus.cpp"
+#include "bytecode/InstanceOfVariant.cpp"
+#include "bytecode/InstructionStream.cpp"

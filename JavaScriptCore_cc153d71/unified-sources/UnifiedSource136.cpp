@@ -1,0 +1,8 @@
+#include "wasm/WasmModuleInformation.cpp"
+#include "wasm/WasmNameSectionParser.cpp"
+#include "wasm/WasmOMGForOSREntryPlan.cpp"
+#include "wasm/WasmOMGPlan.cpp"
+#include "wasm/WasmOpcodeOrigin.cpp"
+#include "wasm/WasmOperations.cpp"
+#include "wasm/WasmPageCount.cpp"
+#include "wasm/WasmPlan.cpp"

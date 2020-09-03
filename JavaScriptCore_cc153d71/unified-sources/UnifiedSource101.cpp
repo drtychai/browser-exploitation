@@ -1,0 +1,8 @@
+#include "runtime/ExceptionFuzz.cpp"
+#include "runtime/ExceptionHelpers.cpp"
+#include "runtime/ExceptionScope.cpp"
+#include "runtime/ExecutableBase.cpp"
+#include "runtime/FileBasedFuzzerAgent.cpp"
+#include "runtime/FileBasedFuzzerAgentBase.cpp"
+#include "runtime/FinalizationRegistryConstructor.cpp"
+#include "runtime/FinalizationRegistryPrototype.cpp"

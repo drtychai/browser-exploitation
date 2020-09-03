@@ -1,0 +1,6 @@
+#include "interpreter/AbstractPC.cpp"
+#include "interpreter/CLoopStack.cpp"
+#include "interpreter/CallFrame.cpp"
+#include "interpreter/Interpreter.cpp"
+#include "interpreter/ShadowChicken.cpp"
+#include "interpreter/StackVisitor.cpp"

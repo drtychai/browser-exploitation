@@ -1,0 +1,8 @@
+#include "wasm/WasmLLIntGenerator.cpp"
+#include "wasm/WasmLLIntPlan.cpp"
+#include "wasm/WasmLLIntTierUpCounter.cpp"
+#include "wasm/WasmMachineThreads.cpp"
+#include "wasm/WasmMemory.cpp"
+#include "wasm/WasmMemoryInformation.cpp"
+#include "wasm/WasmMemoryMode.cpp"
+#include "wasm/WasmModule.cpp"
