@@ -1,0 +1,13 @@
+%section% := value
+
+argtype :=
+    (function foo() { return foo.arguments; })(%repeat%(+value:valtype+, ", "))
+
+statement :=
+    +argtype+.callee
+    +argtype+.length
+    +argtype+.toString()
+    +argtype+.toLocaleString()
+    +argtype+.valueOf()
+    +argtype+[+common:int+]
+    +argtype+[+common:int+] = +value:valtype+

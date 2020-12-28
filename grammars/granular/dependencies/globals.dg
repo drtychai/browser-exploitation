@@ -1,0 +1,13 @@
+%section% := value
+
+%%% boring global functions
+
+statement :=
+    decodeURI("+common:text+")
+    decodeURIComponent("+common:text+")
+    encodeURI("+common:text+")
+    encodeURIComponent("+common:text+")
+    isFinite(+common:number+)
+    isNaN(+common:number+)
+    parseFloat("+common:number+")
+    parseInt("+common:number+")

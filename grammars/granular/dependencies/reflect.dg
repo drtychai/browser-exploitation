@@ -1,0 +1,36 @@
+%section% := value
+
+arglist :=
+    +array:arrtype+
+
+attributes :=
+    { value: +value:valtype+ }
+
+property :=
+    "length"
+    "toString"
+    "valueOf"
+    "__proto__"
+    "+common:text+"
+
+prototype :=
+    null
+    +value:valtype+
+
+statement :=
+    Reflect.apply(+value:valtype+, +value:valtype+, +arglist+)
+    Reflect.construct(+value:valtype+, +arglist+)
+    Reflect.construct(+value:valtype+, +arglist+, +value:valtype+)
+    Reflect.defineProperty(+value:valtype+, +property+, +attributes+)
+    Reflect.deleteProperty(+value:valtype+, +property+)
+    Reflect.get(+value:valtype+, +property+)
+    Reflect.get(+value:valtype+, +property+, +value:valtype+)
+    Reflect.getOwnPropertyDescriptor(+value:valtype+, +property+)
+    Reflect.getPrototypeOf(+value:valtype+)
+    Reflect.has(+value:valtype+, +property+)
+    Reflect.isExtensible(+value:valtype+)
+    Reflect.ownKeys(+value:valtype+)
+    Reflect.preventExtensions(+value:valtype+)
+    Reflect.set(+value:valtype+, +property+, +value:valtype+)
+    Reflect.set(+value:valtype+, +property+, +value:valtype+, +value:valtype+)
+    Reflect.setPrototypeOf(+value:valtype+, +prototype+)

@@ -1,0 +1,52 @@
+Grammer  :=
+	+IfStatement+
+    +IterationStatement+
+    +ForDeclaration+
+
+IfStatement  :=
+	 if  ( +Expression+ ) +value+ else +value+
+	 if  ( +Expression+ ) +value+
+
+IterationStatement  :=
+	 do  +value+ while ( +value+ );
+	 while  ( +value+ ) +value+
+	 for  ( +value+ ; +value+ ; +value+ ) { +value+; }
+
+ForDeclaration  :=
+	+values:LetOrConst+ +ForBinding+
+
+ForBinding  :=
+	+values:BindingIdentifier+
+	+values:BindingPattern+
+
+ContinueStatement  :=
+	 continue;
+	 continue  +value+;
+
+BreakStatement  :=
+	 break;
+	 break +values:LabelIdentifier+ ;
+
+ReturnStatement  :=
+	 return ;
+	 return +value+ ;
+
+WithStatement  :=
+	 with  ( +Expression+ ) +values:Statement+
+
+SwitchStatement  :=
+	 switch  ( +common:int+ ) +values:CaseBlock+
+
+ThrowStatement  :=
+	 throw +Value+ ;
+
+TryStatement  :=
+	 try  +Block+ +Catch+
+	 try  +Block+ +Finally+
+	 try  +Block+ +Catch+ finally
+
+Catch  :=
+	 catch  ( ) +value+
+
+Finally  :=
+	 finally +value+
